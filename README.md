@@ -7,6 +7,7 @@ This project is a random maze generator and solver implemented in C. The program
 - [Introduction](#introduction)
 - [Functions](#functions)
 - [How to Run](#how-to-run)
+- [Demo Video](https://youtube.com/shorts/wxc8XRjfXLE?feature=share)
 
 ## Introduction
 
@@ -54,4 +55,4 @@ Displays an introduction screen to the project.
 
 Upon running the program, the generated maze will be displayed, and the solving process will be animated. Follow the on-screen instructions.
 
-Enjoy exploring and solving mazes!
+## Demo video : https://youtube.com/shorts/wxc8XRjfXLE?feature=share
